@@ -1,0 +1,2 @@
+This assets-dev folder, will be used for saving all the assets we are working on. So the characters spritesheets, etc etc.
+These assets will be pre-game, and once completed, moved into the game.
